@@ -1,8 +1,5 @@
 ## Hi there 👋
  
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paccyo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paccyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=paccyo)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **paccyo/paccyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
